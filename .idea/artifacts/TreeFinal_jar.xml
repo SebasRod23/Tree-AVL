@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TreeFinal:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TreeFinal_jar</output-path>
+    <root id="archive" name="TreeFinal.jar">
+      <element id="module-output" name="TreeFinal" />
+    </root>
+  </artifact>
+</component>
